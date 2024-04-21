@@ -1,0 +1,28 @@
+/* Hier kannst du deine CSS-Stile für alle Seiten definieren */
+body {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+button {
+    padding: 16px 25px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#smartphones {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+}
+
+#cart {
+    margin-bottom: 25px;
+}
+
+#payment-options {
+    margin-top: 25px;
+}
+
+
