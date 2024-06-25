@@ -204,3 +204,8 @@ footer p {
             padding: 0 250px;
         }
 
+h1 {
+            text-align: center;
+            margin: 20px 0;
+            padding: 0 25px;
+}
